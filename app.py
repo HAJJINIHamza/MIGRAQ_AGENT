@@ -7,6 +7,9 @@ from langchain_community.tools import DuckDuckGoSearchResults
 from langchain.agents import AgentExecutor, create_react_agent
 import streamlit as st 
 
+import langchain
+print("langchain version :",langchain.__version__)
+
 #
 load_dotenv()
 

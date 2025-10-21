@@ -1,5 +1,5 @@
 langchain-community
-langchain
+langchain==0.3.27
 langchain_groq
 langchain_huggingface
 sentence_transformers
