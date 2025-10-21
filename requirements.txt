@@ -1,4 +1,5 @@
 langchain-community
+langchain
 langchain_groq
 langchain_huggingface
 sentence_transformers
