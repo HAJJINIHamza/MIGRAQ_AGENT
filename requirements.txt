@@ -1,0 +1,11 @@
+langchain-community
+langgraph
+langchain-text-splitters
+langchain_groq
+langchain_huggingface
+sentence_transformers
+faiss-cpu
+pdfplumber
+streamlit
+beautifulsoup4
+ddgs
